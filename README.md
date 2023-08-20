@@ -18,6 +18,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/QOesiXH"  ><a href="//imgur.com/a/QOesiXH">IOS-Fall23-PreWork</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 <img src='https://imgur.com/lpdIv31' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
