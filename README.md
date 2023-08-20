@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/QOesiXH"  ><a href="//imgur.com/a/QOesiXH">IOS-Fall23-PreWork</a></blockquote>
+<img src='http://g.recordit.co/8SVqMCCyUe.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
