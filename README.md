@@ -18,17 +18,17 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/QOesiXH' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/lpdIv31' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## App Brainstorming (Step 4)
 - App: google translate
-- 1) transform photos into text
+  1) transform photos into text
   2) is very fast and has audio
   3) fast in-time translation from audio and showing the text
  
 - App: Telegram
-- 1) transfer from one phone line to a new one is easy
+  1) transfer from one phone line to a new one is easy
   2) all the data in backup to the cloud automatically
   3) easy to have channels with different access/ comment limitation
   4) change theme capability
@@ -36,12 +36,12 @@ Here's a walkthrough of implemented user stories:
   6) search in texts/groups
 
 - App: CamScanner
-- 1) documents quality is good
+  1) documents quality is good
   2) easy to work with converting scanned files into pdf
   3) easy to scan in batch or single
 
 - App: Linkedin
-- 1) easy to work with/connect/message,...
+  1) easy to work with/connect/message,...
   2) create meetings/calls
   3) easy and fast search with filter
  
